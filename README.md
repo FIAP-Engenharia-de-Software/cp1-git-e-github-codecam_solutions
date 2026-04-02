@@ -28,4 +28,9 @@ A aplicação apresenta uma interface simples e intuitiva, com seções instituc
 
 ---
 
+## Link do Site (GitHub Pages)
 
+Acesse o projeto publicado:
+👉 https://fiap-engenharia-de-software.github.io/cp1-git-e-github-codecam_solutions/
+
+---
